@@ -116,5 +116,3 @@ while running:
 pygame.quit()
 
 print("Your score :", score)
-
-# Source: EtCodeTech (from Youtube) #
